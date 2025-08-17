@@ -27,7 +27,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: 'KJ',
-  description: 'Kartikeya Joshi's Portfolio',
+  description: 'Kartikeya Joshi Portfolio',
 };
 
 export default function RootLayout({
