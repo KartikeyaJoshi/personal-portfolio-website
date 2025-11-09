@@ -196,7 +196,7 @@ export const portfolioData: PortfolioData = {
     }
   ],
   contact: {
-    email: 'kartikeyajoshi1234@gmail.com',
+    email: 'devkartikeyajoshi@gmail.com',
     linkedin: 'https://linkedin.com/in/kartikeyajoshii',
     github: 'https://github.com/kartikeyajoshi',
   },
