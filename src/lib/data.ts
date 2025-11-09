@@ -46,6 +46,13 @@ export const portfolioData: PortfolioData = {
   ],
   projects: [
     {
+      name : 'SpendWell',
+      description: 'A personal expense tracker webapp to manage expenses',
+      tools: ['React', 'FastAPI', 'MongoDB'],
+      githubRepo: 'https://github.com/KartikeyaJoshi/personal-expense-tracker',
+      deploymentLink: 'https://spendwellnow.vercel.app'
+    },
+    {
       name: 'Personal Portfolio',
       description: "A website showcasing my skills and projects",
       tools: ['Next.js'],
@@ -79,6 +86,24 @@ export const portfolioData: PortfolioData = {
     },
   ],
   achievements: [
+    {
+      title: 'Student Excellence Award',
+      issuingOrganization: 'Manipal University Jaipur',
+      date: 'Nov 2025',
+      description: '',
+      certificateLink: 'https://fuxnzh3f8esmstsb.public.blob.vercel-storage.com/KARTIKEYAJOSHI_SEA_2025.jpg',
+      type: 'achievement',
+      skills: []
+    },
+    {
+      title: 'Cisco Networking',
+      issuingOrganization: 'Cisco',
+      date: 'Oct 2025',
+      description: '',
+      certificateLink: 'https://fuxnzh3f8esmstsb.public.blob.vercel-storage.com/CISCO_NETACAD_NETWORKING.pdf',
+      type: 'certificate',
+      skills: []
+    },
     {
       title: 'Microsoft Azure AI Fundamentals',
       issuingOrganization: 'Microsoft',
